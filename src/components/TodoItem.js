@@ -1,5 +1,5 @@
 import React from 'react'
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 import { finish, remove } from '../reducer/todoSlice'
 import { MdDone, MdDelete } from 'react-icons/md'
 import { useDispatch } from 'react-redux'

@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import styled, { css } from 'styled-components'
 import { MdAdd } from 'react-icons/md'
 import { useDispatch } from 'react-redux'
-import todoSlice, { add } from '../reducer/todoSlice'
 
 const CreateButton = styled.button`
   background: #00704a;
