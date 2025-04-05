@@ -11,4 +11,4 @@ React와 Redux Toolkit을 활용하여 제작된 간단한 Todo 리스트 애플
 ## 데모
 ![Todo App Demo](https://github.com/changhyeonbaek/portfolio-images/blob/main/to-do-list-01.png?raw=true) 
 
-- **배포 URL**: [https://github.com/changhyeonbaek/portfolio-baekchanghyeon](https://github.com/changhyeonbaek/portfolio-baekchanghyeon)
+- **배포 URL**: [[https://github.com/changhyeonbaek/portfolio-baekchanghyeon](https://baek-todo-list.netlify.app/)]
